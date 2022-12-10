@@ -4,7 +4,7 @@ Yo!!! This A Ai bot
 
 
 
-Credits : Zaid 
+- Credits 〰️ [Zaid](https://github.com/ITZ-ZAID)✔
 
 
 ## VPS/Locally deploy!
