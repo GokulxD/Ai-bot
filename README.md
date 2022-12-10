@@ -1,5 +1,9 @@
 # Ai-bot
 
+Yo!!! This A Ai bot 
+Credits : Zaid 
+
+
 ## VPS/Locally deploy!
 ```console
 $ apt update
