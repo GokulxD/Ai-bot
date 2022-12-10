@@ -1,6 +1,6 @@
 # Ai-bot
 
-Yo!!! This A Ai bot 
+Yo!!! This An Ai bot 
 
 
 
