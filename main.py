@@ -45,7 +45,7 @@ def log_user(update: Update, context: CallbackContext):
    chat = update.effective_chat
    message = update.effective_message
    try:
-        (
+    if (
            message.text.startswith("!")
            or message.text.startswith("/")
            or message.text.startswith("?")
